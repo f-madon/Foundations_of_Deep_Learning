@@ -1,7 +1,7 @@
 # Foundations_of_Deep_Learning
 
 <p align="center">
-  <img src="https://github.com/emanuelaelli/Lab_On_Smart_Cities/blob/main/images/poor.png" width="60%">
+  <img src="https://universeit.blog/web/app/uploads/2021/07/Deep-Learning.jpg" width="60%">
 </p>
   <h6 align="center">a Foundations of Deep Learning Project</h6>
 <p align="center">
